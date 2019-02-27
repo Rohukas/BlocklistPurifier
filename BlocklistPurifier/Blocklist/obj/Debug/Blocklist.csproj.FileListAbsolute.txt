@@ -1,0 +1,10 @@
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\bin\Debug\Blocklist.exe.config
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\bin\Debug\Blocklist.exe
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\bin\Debug\Blocklist.pdb
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\obj\Debug\Blocklist.csprojAssemblyReference.cache
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\obj\Debug\Blocklist.Form1.resources
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\obj\Debug\Blocklist.Properties.Resources.resources
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\obj\Debug\Blocklist.csproj.GenerateResource.cache
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\obj\Debug\Blocklist.csproj.CoreCompileInputs.cache
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\obj\Debug\Blocklist.exe
+C:\Users\Robi\source\repos\BlocklistPurifier\Blocklist\obj\Debug\Blocklist.pdb
